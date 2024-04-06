@@ -6,3 +6,6 @@ Meet different link that solve some problem relating to software web development
   
 2. Don't save user credential in LocalStorage , why?
    - [knowledge](https://www.rdegges.com/2018/please-stop-using-local-storage/)
+
+3. When to use HTTPS for local development ?
+    - [Knowledge](https://web.dev/articles/when-to-use-local-https)
